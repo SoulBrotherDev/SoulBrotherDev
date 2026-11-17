@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "product": "dualforge_loading",
+  "updated_at": "2026-11-17",
+  "channels": {
+    "stable": {
+      "published": false,
+      "version": "",
+      "notes": []
+    },
+    "beta": {
+      "published": true,
+      "version": "1.2.0-rc2",
+      "released_at": "2026-11-17",
+      "notes": [
+        "Asset Escrow confirmado no FiveM real",
+        "Interface cyber e configuracao personalizavel",
+        "Correcao da estrutura ZIP para Cfx Portal"
+      ]
+    }
+  }
+}
