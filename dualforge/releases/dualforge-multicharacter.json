@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "product": "dualforge_multicharacter",
+  "updated_at": "2026-11-17",
+  "channels": {
+    "stable": {
+      "published": false,
+      "version": "",
+      "notes": []
+    },
+    "beta": {
+      "published": false,
+      "version": "",
+      "notes": []
+    }
+  }
+}
